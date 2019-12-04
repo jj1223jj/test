@@ -7,14 +7,12 @@ public class Practice01 {
 		System.out.println("start");
 		System.out.println("start2");
 
-
-
+		System.out.println("test");
 		System.out.println("im N!");
 
 		System.out.println("im N1111!");
 		System.out.println("im N2222!");
 
-		
-	}	
+	}
 
 }
