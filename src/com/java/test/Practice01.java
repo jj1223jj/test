@@ -6,6 +6,8 @@ public class Practice01 {
 		// TODO Auto-generated method stub
 		System.out.println("start");
 		System.out.println("start2");
+		
+		System.out.println("³ª´Â k¾ß");
 	}	
 
 }
