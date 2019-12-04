@@ -8,10 +8,9 @@ public class Practice01 {
 		System.out.println("start2");
 
 
-		System.out.println("³ª´Â k¾ß");
+		System.out.println("im master");
 
-		System.out.println("S.s");
-
+		
 	}	
 
 }
