@@ -8,6 +8,7 @@ public class Practice01 {
 		System.out.println("start2");
 		System.out.println("start3");
 		System.out.println("start4");
+		System.out.println("S.s");
 	}	
 
 }
