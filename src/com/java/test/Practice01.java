@@ -8,12 +8,11 @@ public class Practice01 {
 		System.out.println("start2");
 
 
-<<<<<<< HEAD
-		System.out.println("im master");
-=======
+
 		System.out.println("im N!");
 
->>>>>>> bd404b283e638f8b35efccbc7199e548007f1397
+		System.out.println("im N1111!");
+		System.out.println("im N2222!");
 
 		
 	}	
