@@ -9,6 +9,7 @@ public class Practice01 {
 
 
 		System.out.println("im N1111!");
+		System.out.println("im N2222!");
 
 
 	}	
